@@ -12,7 +12,10 @@ At the end of the Excel will apper 4 sheets
 
 
 Sheet of Logs will contain all the logs.
+
 Sheet of Alerts only Alerts Logs.
+
 Sheet of Warning only Warning Logs.
+
 Sheet of notices only Notices Logs.
 
