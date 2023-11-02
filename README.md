@@ -1,5 +1,5 @@
 # LokiSorterExcel
-LokisorterExcel is for visualizing logs in a excel it filters by Alerts Warnings Notices.
+LokisorterExcel is for visualizing the loki logs in a excel and sort the logs by Alerts Warnings Notices.
 
 To use it install this libraries
 ```
