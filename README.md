@@ -2,6 +2,7 @@
 LokisorterExcel is for visualizing logs in a excel it filters by Alerts Warnings Notices.
 
 This is an example of how will show on the excel
+
 +-----------+----------+-------------------------+------------------------+----------+-----------+----------+
 | Date/Time | Log Type |         Message         |          MD5           | CREATED  | MODIFIED  | ACCESSED |
 +-----------+----------+-------------------------+------------------------+----------+-----------+----------+
