@@ -5,10 +5,15 @@ To use it install this libraries
 ```
 pip install pandas XlsxWriter
 ```
-Then execute the following command
+Then execute the following command to execute the script.
 ```
 python3 LokiSorter.py log_file.log
 ```
+Extra options
+```
+python3 LokiSorter.py -h
+```
+
 This is an example of how will show on the excel
 
 ![image](https://github.com/NestorGarciaPlatas/LokiSorterExcel/assets/71390692/fbaa20c9-1cee-42aa-becb-2c92c44bf883)
