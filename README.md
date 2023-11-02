@@ -3,11 +3,8 @@ LokisorterExcel is for visualizing logs in a excel it filters by Alerts Warnings
 
 This is an example of how will show on the excel
 
-+-----------+----------+-------------------------+------------------------+----------+-----------+----------+
-| Date/Time | Log Type |         Message         |          MD5           | CREATED  | MODIFIED  | ACCESSED |
-+-----------+----------+-------------------------+------------------------+----------+-----------+----------+
-|  20231102 | Alert:   | MODULE:.... all the log | Number of MD5 if exist | If exist | If exist  | If exist |
-+-----------+----------+-------------------------+------------------------+----------+-----------+----------+
+![image](https://github.com/NestorGarciaPlatas/LokiSorterExcel/assets/71390692/fbaa20c9-1cee-42aa-becb-2c92c44bf883)
+
 
 
 At the end of the Excel will apper 4 sheets 
