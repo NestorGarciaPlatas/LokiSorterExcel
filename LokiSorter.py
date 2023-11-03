@@ -6,7 +6,7 @@ import argparse
 # command line arguments
 parser = argparse.ArgumentParser(description="Sort and filter Loki records and export to Excel.")
 parser.add_argument("log_file", help="Loki Log File")
-parser.add_argument("filter_fields", nargs='*', help="Fields to filter (e.g. 'SHA256 NAME SCORE')")
+parser.add_argument("filter_fields", nargs='*', help="Fields to filter (Right now this are the fields available'SHA256 NAME SCORE')")
 args = parser.parse_args()
 
 valid_fields = {'SHA256', 'NAME', 'SCORE'}
